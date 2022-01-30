@@ -20,3 +20,7 @@ Please search for any [existing issues](https://github.com/aakashdeepwahi/Projec
 Copyright 2021–2022 ADW Creations Halloween, a 501c3 nonprofit
 
 Licensed under the MIT 
+
+## Reason Why I chose this kind of license
+I used this kind of license because I don't want someone to take the advantage of the patent so now patent is with me rest the person can use the code for his or her personal use as well. 
+
